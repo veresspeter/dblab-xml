@@ -1,0 +1,1438 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<legi1 element-type="dataset">
+  <gep element-type="recordset">
+    <record element-type="record" gep_id="1">
+      <lajstromjel is-null="False">HA-LID</lajstromjel>
+      <tipus is-null="False">B747400</tipus>
+      <musz_ell is-null="False" date="2018-02-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-09-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">300</ules>
+      <hatotav is-null="False">14205.0</hatotav>
+      <megjegyzes is-null="False">elavult videorendszer</megjegyzes>
+    </record>
+    <record element-type="record" gep_id="2">
+      <lajstromjel is-null="False">HA-LJI</lajstromjel>
+      <tipus is-null="False">B747300</tipus>
+      <musz_ell is-null="False" date="2018-02-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-09-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">300</ules>
+      <hatotav is-null="False">12400.0</hatotav>
+      <megjegyzes is-null="True"/>
+    </record>
+    <record element-type="record" gep_id="3">
+      <lajstromjel is-null="False">HA-LSP</lajstromjel>
+      <tipus is-null="False">MD11</tipus>
+      <musz_ell is-null="False" date="2018-01-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-10-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">240</ules>
+      <hatotav is-null="False">12655.0</hatotav>
+      <megjegyzes is-null="False">uj legkondicionalo</megjegyzes>
+    </record>
+    <record element-type="record" gep_id="4">
+      <lajstromjel is-null="False">HA-LAK</lajstromjel>
+      <tipus is-null="False">B767</tipus>
+      <musz_ell is-null="False" date="2018-01-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-10-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">210</ules>
+      <hatotav is-null="False">7300.0</hatotav>
+      <megjegyzes is-null="True"/>
+    </record>
+    <record element-type="record" gep_id="5">
+      <lajstromjel is-null="False">HA-LCS</lajstromjel>
+      <tipus is-null="False">B767</tipus>
+      <musz_ell is-null="False" date="2017-12-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-11-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">210</ules>
+      <hatotav is-null="False">12200.0</hatotav>
+      <megjegyzes is-null="True"/>
+    </record>
+    <record element-type="record" gep_id="6">
+      <lajstromjel is-null="False">HA-LKL</lajstromjel>
+      <tipus is-null="False">B737900</tipus>
+      <musz_ell is-null="False" date="2017-12-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-11-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">180</ules>
+      <hatotav is-null="False">5600.0</hatotav>
+      <megjegyzes is-null="True"/>
+    </record>
+    <record element-type="record" gep_id="7">
+      <lajstromjel is-null="False">HA-LFV</lajstromjel>
+      <tipus is-null="False">B737300</tipus>
+      <musz_ell is-null="False" date="2018-03-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-12-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">110</ules>
+      <hatotav is-null="False">4300.0</hatotav>
+      <megjegyzes is-null="True"/>
+    </record>
+    <record element-type="record" gep_id="8">
+      <lajstromjel is-null="False">HA-LLR</lajstromjel>
+      <tipus is-null="False">Fok70</tipus>
+      <musz_ell is-null="False" date="2018-02-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-12-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">80</ules>
+      <hatotav is-null="False">3410.0</hatotav>
+      <megjegyzes is-null="False">uj fekszarny</megjegyzes>
+    </record>
+    <record element-type="record" gep_id="9">
+      <lajstromjel is-null="False">HA-LZZ</lajstromjel>
+      <tipus is-null="False">B747300</tipus>
+      <musz_ell is-null="False" date="2018-02-26" time="10:21:56"/>
+      <javitas is-null="False" date="2018-01-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">300</ules>
+      <hatotav is-null="False">12400.0</hatotav>
+      <megjegyzes is-null="True"/>
+    </record>
+    <record element-type="record" gep_id="10">
+      <lajstromjel is-null="False">HA-LZS</lajstromjel>
+      <tipus is-null="False">MD11</tipus>
+      <musz_ell is-null="False" date="2018-03-26" time="10:21:56"/>
+      <javitas is-null="False" date="2018-01-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">240</ules>
+      <hatotav is-null="False">12655.0</hatotav>
+      <megjegyzes is-null="True"/>
+    </record>
+    <record element-type="record" gep_id="11">
+      <lajstromjel is-null="False">HA-LJT</lajstromjel>
+      <tipus is-null="False">B767</tipus>
+      <musz_ell is-null="False" date="2018-03-26" time="10:21:56"/>
+      <javitas is-null="False" date="2018-02-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">210</ules>
+      <hatotav is-null="False">11065.0</hatotav>
+      <megjegyzes is-null="False">fekszarny cserere szorul</megjegyzes>
+    </record>
+    <record element-type="record" gep_id="12">
+      <lajstromjel is-null="False">HA-LCY</lajstromjel>
+      <tipus is-null="False">B737900</tipus>
+      <musz_ell is-null="False" date="2018-02-26" time="10:21:56"/>
+      <javitas is-null="False" date="2018-02-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">180</ules>
+      <hatotav is-null="False">5600.0</hatotav>
+      <megjegyzes is-null="True"/>
+    </record>
+    <record element-type="record" gep_id="13">
+      <lajstromjel is-null="False">HA-LAS</lajstromjel>
+      <tipus is-null="False">B737300</tipus>
+      <musz_ell is-null="False" date="2018-02-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-06-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">110</ules>
+      <hatotav is-null="False">4300.0</hatotav>
+      <megjegyzes is-null="True"/>
+    </record>
+    <record element-type="record" gep_id="14">
+      <lajstromjel is-null="False">HA-LCV</lajstromjel>
+      <tipus is-null="False">Fok70</tipus>
+      <musz_ell is-null="False" date="2018-02-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-06-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">80</ules>
+      <hatotav is-null="False">3410.0</hatotav>
+      <megjegyzes is-null="False">regi hajtomu</megjegyzes>
+    </record>
+    <record element-type="record" gep_id="15">
+      <lajstromjel is-null="False">HA-LCA</lajstromjel>
+      <tipus is-null="False">B747300</tipus>
+      <musz_ell is-null="False" date="2018-01-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-06-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">300</ules>
+      <hatotav is-null="False">12400.0</hatotav>
+      <megjegyzes is-null="True"/>
+    </record>
+    <record element-type="record" gep_id="16">
+      <lajstromjel is-null="False">HA-LOV</lajstromjel>
+      <tipus is-null="False">B747400</tipus>
+      <musz_ell is-null="False" date="2018-01-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-06-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">250</ules>
+      <hatotav is-null="False">14205.0</hatotav>
+      <megjegyzes is-null="False">megnovelt BUSINESS class</megjegyzes>
+    </record>
+    <record element-type="record" gep_id="17">
+      <lajstromjel is-null="False">HA-LBL</lajstromjel>
+      <tipus is-null="False">B747400</tipus>
+      <musz_ell is-null="False" date="2018-03-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-10-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">300</ules>
+      <hatotav is-null="False">14205.0</hatotav>
+      <megjegyzes is-null="True"/>
+    </record>
+    <record element-type="record" gep_id="18">
+      <lajstromjel is-null="False">HA-LHN</lajstromjel>
+      <tipus is-null="False">B767</tipus>
+      <musz_ell is-null="False" date="2018-03-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-10-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">210</ules>
+      <hatotav is-null="False">6025.0</hatotav>
+      <megjegyzes is-null="True"/>
+    </record>
+    <record element-type="record" gep_id="19">
+      <lajstromjel is-null="False">HA-LJP</lajstromjel>
+      <tipus is-null="False">B737900</tipus>
+      <musz_ell is-null="False" date="2018-03-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-09-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">180</ules>
+      <hatotav is-null="False">5600.0</hatotav>
+      <megjegyzes is-null="True"/>
+    </record>
+    <record element-type="record" gep_id="20">
+      <lajstromjel is-null="False">HA-LGJ</lajstromjel>
+      <tipus is-null="False">B737300</tipus>
+      <musz_ell is-null="False" date="2018-03-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-09-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">110</ules>
+      <hatotav is-null="False">4300.0</hatotav>
+      <megjegyzes is-null="True"/>
+    </record>
+    <record element-type="record" gep_id="21">
+      <lajstromjel is-null="False">HA-LZE</lajstromjel>
+      <tipus is-null="False">B747400</tipus>
+      <musz_ell is-null="False" date="2017-12-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-08-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">300</ules>
+      <hatotav is-null="False">14205.0</hatotav>
+      <megjegyzes is-null="True"/>
+    </record>
+    <record element-type="record" gep_id="22">
+      <lajstromjel is-null="False">HA-LWR</lajstromjel>
+      <tipus is-null="False">B747400</tipus>
+      <musz_ell is-null="False" date="2017-12-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-08-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">300</ules>
+      <hatotav is-null="False">14205.0</hatotav>
+      <megjegyzes is-null="True"/>
+    </record>
+    <record element-type="record" gep_id="23">
+      <lajstromjel is-null="False">HA-LIU</lajstromjel>
+      <tipus is-null="False">B767</tipus>
+      <musz_ell is-null="False" date="2017-11-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-07-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">210</ules>
+      <hatotav is-null="False">10425.0</hatotav>
+      <megjegyzes is-null="True"/>
+    </record>
+    <record element-type="record" gep_id="24">
+      <lajstromjel is-null="False">HA-LZL</lajstromjel>
+      <tipus is-null="False">MD11</tipus>
+      <musz_ell is-null="False" date="2017-02-26" time="10:21:56"/>
+      <javitas is-null="False" date="2016-12-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">240</ules>
+      <hatotav is-null="False">12655.0</hatotav>
+      <megjegyzes is-null="True"/>
+    </record>
+    <record element-type="record" gep_id="25">
+      <lajstromjel is-null="False">HA-LZJ</lajstromjel>
+      <tipus is-null="False">B737900</tipus>
+      <musz_ell is-null="False" date="2017-10-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-10-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">180</ules>
+      <hatotav is-null="False">5600.0</hatotav>
+      <megjegyzes is-null="True"/>
+    </record>
+    <record element-type="record" gep_id="26">
+      <lajstromjel is-null="False">HA-LTD</lajstromjel>
+      <tipus is-null="False">B737300</tipus>
+      <musz_ell is-null="False" date="2018-04-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-10-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">110</ules>
+      <hatotav is-null="False">4300.0</hatotav>
+      <megjegyzes is-null="True"/>
+    </record>
+    <record element-type="record" gep_id="27">
+      <lajstromjel is-null="False">HA-LTB</lajstromjel>
+      <tipus is-null="False">B737300</tipus>
+      <musz_ell is-null="False" date="2017-09-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-06-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">110</ules>
+      <hatotav is-null="False">4300.0</hatotav>
+      <megjegyzes is-null="True"/>
+    </record>
+    <record element-type="record" gep_id="28">
+      <lajstromjel is-null="False">HA-LOM</lajstromjel>
+      <tipus is-null="False">Fok70</tipus>
+      <musz_ell is-null="False" date="2017-09-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-04-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">90</ules>
+      <hatotav is-null="False">3410.0</hatotav>
+      <megjegyzes is-null="True"/>
+    </record>
+    <record element-type="record" gep_id="29">
+      <lajstromjel is-null="False">HA-LJB</lajstromjel>
+      <tipus is-null="False">Fok70</tipus>
+      <musz_ell is-null="False" date="2017-08-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-04-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">90</ules>
+      <hatotav is-null="False">3410.0</hatotav>
+      <megjegyzes is-null="False">regi hajtomu</megjegyzes>
+    </record>
+    <record element-type="record" gep_id="30">
+      <lajstromjel is-null="False">HA-LSR</lajstromjel>
+      <tipus is-null="False">CRJ100</tipus>
+      <musz_ell is-null="False" date="2018-02-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-10-26" time="10:21:56"/>
+      <legcsavaros is-null="False">1</legcsavaros>
+      <ules is-null="False">70</ules>
+      <hatotav is-null="False">2000.0</hatotav>
+      <megjegyzes is-null="False">kis hatotavolsagu</megjegyzes>
+    </record>
+    <record element-type="record" gep_id="31">
+      <lajstromjel is-null="False">HA-LDC</lajstromjel>
+      <tipus is-null="False">CRJ100</tipus>
+      <musz_ell is-null="False" date="2017-08-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-07-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">70</ules>
+      <hatotav is-null="False">2000.0</hatotav>
+      <megjegyzes is-null="False">kis hatotavolsagu</megjegyzes>
+    </record>
+    <record element-type="record" gep_id="32">
+      <lajstromjel is-null="False">HA-LMA</lajstromjel>
+      <tipus is-null="False">A320</tipus>
+      <musz_ell is-null="False" date="2018-03-26" time="10:21:56"/>
+      <javitas is-null="False" date="2018-02-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">145</ules>
+      <hatotav is-null="False">6100.0</hatotav>
+      <megjegyzes is-null="True"/>
+    </record>
+    <record element-type="record" gep_id="33">
+      <lajstromjel is-null="False">HA-LZN</lajstromjel>
+      <tipus is-null="False">A320</tipus>
+      <musz_ell is-null="False" date="2018-01-26" time="10:21:56"/>
+      <javitas is-null="False" date="2017-11-26" time="10:21:56"/>
+      <legcsavaros is-null="False">0</legcsavaros>
+      <ules is-null="False">145</ules>
+      <hatotav is-null="False">6100.0</hatotav>
+      <megjegyzes is-null="True"/>
+    </record>
+  </gep>
+  <jarat element-type="recordset">
+    <record element-type="record" jarat_id="1">
+      <szam is-null="False">BF7958</szam>
+      <honnan is-null="False">BUD</honnan>
+      <hova is-null="False">HEL</hova>
+      <ind is-null="False">810</ind>
+      <erk is-null="False">1035</erk>
+    </record>
+    <record element-type="record" jarat_id="2">
+      <szam is-null="False">BF9037</szam>
+      <honnan is-null="False">BUD</honnan>
+      <hova is-null="False">HEL</hova>
+      <ind is-null="False">1720</ind>
+      <erk is-null="False">1945</erk>
+    </record>
+    <record element-type="record" jarat_id="3">
+      <szam is-null="False">BF3780</szam>
+      <honnan is-null="False">HEL</honnan>
+      <hova is-null="False">BUD</hova>
+      <ind is-null="False">1110</ind>
+      <erk is-null="False">1335</erk>
+    </record>
+    <record element-type="record" jarat_id="4">
+      <szam is-null="False">BF1591</szam>
+      <honnan is-null="False">BUD</honnan>
+      <hova is-null="False">HEL</hova>
+      <ind is-null="False">810</ind>
+      <erk is-null="False">1035</erk>
+    </record>
+    <record element-type="record" jarat_id="5">
+      <szam is-null="False">BF4290</szam>
+      <honnan is-null="False">BUD</honnan>
+      <hova is-null="False">CDG</hova>
+      <ind is-null="False">640</ind>
+      <erk is-null="False">910</erk>
+    </record>
+    <record element-type="record" jarat_id="6">
+      <szam is-null="False">BF5035</szam>
+      <honnan is-null="False">CDG</honnan>
+      <hova is-null="False">BUD</hova>
+      <ind is-null="False">1235</ind>
+      <erk is-null="False">1500</erk>
+    </record>
+    <record element-type="record" jarat_id="7">
+      <szam is-null="False">BF3608</szam>
+      <honnan is-null="False">AMS</honnan>
+      <hova is-null="False">CDG</hova>
+      <ind is-null="False">710</ind>
+      <erk is-null="False">800</erk>
+    </record>
+    <record element-type="record" jarat_id="8">
+      <szam is-null="False">BF5176</szam>
+      <honnan is-null="False">CDG</honnan>
+      <hova is-null="False">AMS</hova>
+      <ind is-null="False">915</ind>
+      <erk is-null="False">1000</erk>
+    </record>
+    <record element-type="record" jarat_id="9">
+      <szam is-null="False">BF7333</szam>
+      <honnan is-null="False">AMS</honnan>
+      <hova is-null="False">NRT</hova>
+      <ind is-null="False">630</ind>
+      <erk is-null="False">1835</erk>
+    </record>
+    <record element-type="record" jarat_id="10">
+      <szam is-null="False">BF1977</szam>
+      <honnan is-null="False">NRT</honnan>
+      <hova is-null="False">AMS</hova>
+      <ind is-null="False">810</ind>
+      <erk is-null="False">2000</erk>
+    </record>
+    <record element-type="record" jarat_id="11">
+      <szam is-null="False">BF2694</szam>
+      <honnan is-null="False">BUD</honnan>
+      <hova is-null="False">OSL</hova>
+      <ind is-null="False">2110</ind>
+      <erk is-null="False">2335</erk>
+    </record>
+    <record element-type="record" jarat_id="12">
+      <szam is-null="False">BF4846</szam>
+      <honnan is-null="False">BUD</honnan>
+      <hova is-null="False">OSL</hova>
+      <ind is-null="False">940</ind>
+      <erk is-null="False">1205</erk>
+    </record>
+    <record element-type="record" jarat_id="13">
+      <szam is-null="False">BF7510</szam>
+      <honnan is-null="False">OSL</honnan>
+      <hova is-null="False">HEL</hova>
+      <ind is-null="False">1310</ind>
+      <erk is-null="False">1355</erk>
+    </record>
+    <record element-type="record" jarat_id="14">
+      <szam is-null="False">BF4639</szam>
+      <honnan is-null="False">NRT</honnan>
+      <hova is-null="False">HEL</hova>
+      <ind is-null="False">810</ind>
+      <erk is-null="False">1955</erk>
+    </record>
+    <record element-type="record" jarat_id="15">
+      <szam is-null="False">BF3345</szam>
+      <honnan is-null="False">HEL</honnan>
+      <hova is-null="False">NRT</hova>
+      <ind is-null="False">700</ind>
+      <erk is-null="False">1800</erk>
+    </record>
+    <record element-type="record" jarat_id="16">
+      <szam is-null="False">BF5079</szam>
+      <honnan is-null="False">BUD</honnan>
+      <hova is-null="False">TXL</hova>
+      <ind is-null="False">1150</ind>
+      <erk is-null="False">1325</erk>
+    </record>
+    <record element-type="record" jarat_id="17">
+      <szam is-null="False">BF5534</szam>
+      <honnan is-null="False">TXL</honnan>
+      <hova is-null="False">LON</hova>
+      <ind is-null="False">1550</ind>
+      <erk is-null="False">1800</erk>
+    </record>
+    <record element-type="record" jarat_id="18">
+      <szam is-null="False">BF1893</szam>
+      <honnan is-null="False">LON</honnan>
+      <hova is-null="False">BUD</hova>
+      <ind is-null="False">1910</ind>
+      <erk is-null="False">2200</erk>
+    </record>
+    <record element-type="record" jarat_id="19">
+      <szam is-null="False">BF5500</szam>
+      <honnan is-null="False">LON</honnan>
+      <hova is-null="False">BUD</hova>
+      <ind is-null="False">1910</ind>
+      <erk is-null="False">2200</erk>
+    </record>
+    <record element-type="record" jarat_id="20">
+      <szam is-null="False">BF9852</szam>
+      <honnan is-null="False">BGO</honnan>
+      <hova is-null="False">OSL</hova>
+      <ind is-null="False">1710</ind>
+      <erk is-null="False">1835</erk>
+    </record>
+    <record element-type="record" jarat_id="21">
+      <szam is-null="False">BF2414</szam>
+      <honnan is-null="False">BGO</honnan>
+      <hova is-null="False">HEL</hova>
+      <ind is-null="False">610</ind>
+      <erk is-null="False">835</erk>
+    </record>
+    <record element-type="record" jarat_id="22">
+      <szam is-null="False">BF9743</szam>
+      <honnan is-null="False">HEL</honnan>
+      <hova is-null="False">BGO</hova>
+      <ind is-null="False">955</ind>
+      <erk is-null="False">1135</erk>
+    </record>
+    <record element-type="record" jarat_id="23">
+      <szam is-null="False">BF4542</szam>
+      <honnan is-null="False">BUD</honnan>
+      <hova is-null="False">FRA</hova>
+      <ind is-null="False">810</ind>
+      <erk is-null="False">1035</erk>
+    </record>
+    <record element-type="record" jarat_id="24">
+      <szam is-null="False">BF3050</szam>
+      <honnan is-null="False">DEL</honnan>
+      <hova is-null="False">FRA</hova>
+      <ind is-null="False">1110</ind>
+      <erk is-null="False">2240</erk>
+    </record>
+    <record element-type="record" jarat_id="25">
+      <szam is-null="False">BF4210</szam>
+      <honnan is-null="False">DEL</honnan>
+      <hova is-null="False">FRA</hova>
+      <ind is-null="False">955</ind>
+      <erk is-null="False">2135</erk>
+    </record>
+    <record element-type="record" jarat_id="26">
+      <szam is-null="False">BF0560</szam>
+      <honnan is-null="False">FRA</honnan>
+      <hova is-null="False">BKK</hova>
+      <ind is-null="False">810</ind>
+      <erk is-null="False">2235</erk>
+    </record>
+    <record element-type="record" jarat_id="27">
+      <szam is-null="False">BF0010</szam>
+      <honnan is-null="False">DEL</honnan>
+      <hova is-null="False">BKK</hova>
+      <ind is-null="False">1510</ind>
+      <erk is-null="False">2005</erk>
+    </record>
+    <record element-type="record" jarat_id="28">
+      <szam is-null="False">BF2899</szam>
+      <honnan is-null="False">CDG</honnan>
+      <hova is-null="False">IST</hova>
+      <ind is-null="False">1210</ind>
+      <erk is-null="False">1515</erk>
+    </record>
+    <record element-type="record" jarat_id="29">
+      <szam is-null="False">BF6683</szam>
+      <honnan is-null="False">ist</honnan>
+      <hova is-null="False">CDG</hova>
+      <ind is-null="False">1730</ind>
+      <erk is-null="False">2000</erk>
+    </record>
+    <record element-type="record" jarat_id="30">
+      <szam is-null="False">BF9936</szam>
+      <honnan is-null="False">BUD</honnan>
+      <hova is-null="False">IST</hova>
+      <ind is-null="False">530</ind>
+      <erk is-null="False">755</erk>
+    </record>
+    <record element-type="record" jarat_id="31">
+      <szam is-null="False">BF7226</szam>
+      <honnan is-null="False">IST</honnan>
+      <hova is-null="False">BUD</hova>
+      <ind is-null="False">910</ind>
+      <erk is-null="False">1135</erk>
+    </record>
+    <record element-type="record" jarat_id="32">
+      <szam is-null="False">BF0587</szam>
+      <honnan is-null="False">BUD</honnan>
+      <hova is-null="False">IST</hova>
+      <ind is-null="False">1330</ind>
+      <erk is-null="False">1600</erk>
+    </record>
+    <record element-type="record" jarat_id="33">
+      <szam is-null="False">BF1505</szam>
+      <honnan is-null="False">IST</honnan>
+      <hova is-null="False">BUD</hova>
+      <ind is-null="False">1810</ind>
+      <erk is-null="False">2035</erk>
+    </record>
+    <record element-type="record" jarat_id="34">
+      <szam is-null="False">BF4682</szam>
+      <honnan is-null="False">BUD</honnan>
+      <hova is-null="False">NYC</hova>
+      <ind is-null="False">810</ind>
+      <erk is-null="False">1900</erk>
+    </record>
+    <record element-type="record" jarat_id="35">
+      <szam is-null="False">BF7349</szam>
+      <honnan is-null="False">NYC</honnan>
+      <hova is-null="False">BUD</hova>
+      <ind is-null="False">810</ind>
+      <erk is-null="False">1900</erk>
+    </record>
+    <record element-type="record" jarat_id="36">
+      <szam is-null="False">BF0350</szam>
+      <honnan is-null="False">NYC</honnan>
+      <hova is-null="False">AMS</hova>
+      <ind is-null="False">635</ind>
+      <erk is-null="False">1805</erk>
+    </record>
+    <record element-type="record" jarat_id="37">
+      <szam is-null="False">BF2121</szam>
+      <honnan is-null="False">AMS</honnan>
+      <hova is-null="False">NYC</hova>
+      <ind is-null="False">1110</ind>
+      <erk is-null="False">2135</erk>
+    </record>
+    <record element-type="record" jarat_id="38">
+      <szam is-null="False">BF5632</szam>
+      <honnan is-null="False">NYC</honnan>
+      <hova is-null="False">AMS</hova>
+      <ind is-null="False">1240</ind>
+      <erk is-null="False">2335</erk>
+    </record>
+    <record element-type="record" jarat_id="39">
+      <szam is-null="False">BF5798</szam>
+      <honnan is-null="False">AMS</honnan>
+      <hova is-null="False">NYC</hova>
+      <ind is-null="False">1315</ind>
+      <erk is-null="False">2355</erk>
+    </record>
+    <record element-type="record" jarat_id="40">
+      <szam is-null="False">BF4369</szam>
+      <honnan is-null="False">BUD</honnan>
+      <hova is-null="False">PRG</hova>
+      <ind is-null="False">815</ind>
+      <erk is-null="False">935</erk>
+    </record>
+    <record element-type="record" jarat_id="41">
+      <szam is-null="False">BF5514</szam>
+      <honnan is-null="False">BUD</honnan>
+      <hova is-null="False">PRG</hova>
+      <ind is-null="False">1815</ind>
+      <erk is-null="False">1930</erk>
+    </record>
+    <record element-type="record" jarat_id="42">
+      <szam is-null="False">BF3796</szam>
+      <honnan is-null="False">PRG</honnan>
+      <hova is-null="False">BUD</hova>
+      <ind is-null="False">1240</ind>
+      <erk is-null="False">1410</erk>
+    </record>
+    <record element-type="record" jarat_id="43">
+      <szam is-null="False">BF7355</szam>
+      <honnan is-null="False">PRG</honnan>
+      <hova is-null="False">BUD</hova>
+      <ind is-null="False">2115</ind>
+      <erk is-null="False">2230</erk>
+    </record>
+    <record element-type="record" jarat_id="44">
+      <szam is-null="False">BF3346</szam>
+      <honnan is-null="False">PRG</honnan>
+      <hova is-null="False">OSL</hova>
+      <ind is-null="False">1115</ind>
+      <erk is-null="False">1330</erk>
+    </record>
+    <record element-type="record" jarat_id="45">
+      <szam is-null="False">BF6314</szam>
+      <honnan is-null="False">OSL</honnan>
+      <hova is-null="False">PRG</hova>
+      <ind is-null="False">1500</ind>
+      <erk is-null="False">1700</erk>
+    </record>
+    <record element-type="record" jarat_id="46">
+      <szam is-null="False">BF4768</szam>
+      <honnan is-null="False">PRG</honnan>
+      <hova is-null="False">NYC</hova>
+      <ind is-null="False">940</ind>
+      <erk is-null="False">1930</erk>
+    </record>
+    <record element-type="record" jarat_id="47">
+      <szam is-null="False">BF1677</szam>
+      <honnan is-null="False">NYC</honnan>
+      <hova is-null="False">PRG</hova>
+      <ind is-null="False">1000</ind>
+      <erk is-null="False">2015</erk>
+    </record>
+    <record element-type="record" jarat_id="48">
+      <szam is-null="False">BF8407</szam>
+      <honnan is-null="False">NYC</honnan>
+      <hova is-null="False">PRG</hova>
+      <ind is-null="False">1000</ind>
+      <erk is-null="False">2015</erk>
+    </record>
+    <record element-type="record" jarat_id="49">
+      <szam is-null="False">BF7607</szam>
+      <honnan is-null="False">PRG</honnan>
+      <hova is-null="False">CDG</hova>
+      <ind is-null="False">1530</ind>
+      <erk is-null="False">1735</erk>
+    </record>
+    <record element-type="record" jarat_id="50">
+      <szam is-null="False">BF5041</szam>
+      <honnan is-null="False">CDG</honnan>
+      <hova is-null="False">TXL</hova>
+      <ind is-null="False">1900</ind>
+      <erk is-null="False">2025</erk>
+    </record>
+    <record element-type="record" jarat_id="51">
+      <szam is-null="False">BF5312</szam>
+      <honnan is-null="False">TXL</honnan>
+      <hova is-null="False">NRT</hova>
+      <ind is-null="False">715</ind>
+      <erk is-null="False">1930</erk>
+    </record>
+    <record element-type="record" jarat_id="52">
+      <szam is-null="False">BF9569</szam>
+      <honnan is-null="False">NRT</honnan>
+      <hova is-null="False">LON</hova>
+      <ind is-null="False">1010</ind>
+      <erk is-null="False">2330</erk>
+    </record>
+    <record element-type="record" jarat_id="53">
+      <szam is-null="False">BF0361</szam>
+      <honnan is-null="False">LON</honnan>
+      <hova is-null="False">IST</hova>
+      <ind is-null="False">1200</ind>
+      <erk is-null="False">1500</erk>
+    </record>
+    <record element-type="record" jarat_id="54">
+      <szam is-null="False">BF7584</szam>
+      <honnan is-null="False">IST</honnan>
+      <hova is-null="False">BUD</hova>
+      <ind is-null="False">1715</ind>
+      <erk is-null="False">1930</erk>
+    </record>
+    <record element-type="record" jarat_id="55">
+      <szam is-null="False">BF9215</szam>
+      <honnan is-null="False">NYC</honnan>
+      <hova is-null="False">NRT</hova>
+      <ind is-null="False">610</ind>
+      <erk is-null="False">2235</erk>
+    </record>
+    <record element-type="record" jarat_id="56">
+      <szam is-null="False">BF8966</szam>
+      <honnan is-null="False">BKK</honnan>
+      <hova is-null="False">SYD</hova>
+      <ind is-null="False">610</ind>
+      <erk is-null="False">2235</erk>
+    </record>
+    <record element-type="record" jarat_id="57">
+      <szam is-null="False">BF7012</szam>
+      <honnan is-null="False">SYD</honnan>
+      <hova is-null="False">MOW</hova>
+      <ind is-null="False">610</ind>
+      <erk is-null="False">2235</erk>
+    </record>
+    <record element-type="record" jarat_id="58">
+      <szam is-null="False">BF3373</szam>
+      <honnan is-null="False">BUD</honnan>
+      <hova is-null="False">ROM</hova>
+      <ind is-null="False">715</ind>
+      <erk is-null="False">905</erk>
+    </record>
+    <record element-type="record" jarat_id="59">
+      <szam is-null="False">BF3257</szam>
+      <honnan is-null="False">ROM</honnan>
+      <hova is-null="False">BOS</hova>
+      <ind is-null="False">1145</ind>
+      <erk is-null="False">2030</erk>
+    </record>
+    <record element-type="record" jarat_id="60">
+      <szam is-null="False">BF7606</szam>
+      <honnan is-null="False">BOS</honnan>
+      <hova is-null="False">ROM</hova>
+      <ind is-null="False">1200</ind>
+      <erk is-null="False">1955</erk>
+    </record>
+    <record element-type="record" jarat_id="61">
+      <szam is-null="False">BF6577</szam>
+      <honnan is-null="False">ROM</honnan>
+      <hova is-null="False">BUD</hova>
+      <ind is-null="False">2100</ind>
+      <erk is-null="False">2255</erk>
+    </record>
+  </jarat>
+  <menetrend element-type="recordset">
+    <record element-type="record" id="1">
+      <gep_id is-null="False">6</gep_id>
+      <jarat_id is-null="False">1</jarat_id>
+      <nap is-null="False">96</nap>
+      <pilota is-null="False">Kovacs Istvan</pilota>
+    </record>
+    <record element-type="record" id="2">
+      <gep_id is-null="False">3</gep_id>
+      <jarat_id is-null="False">1</jarat_id>
+      <nap is-null="False">80</nap>
+      <pilota is-null="False">Kovacs Zsigmond</pilota>
+    </record>
+    <record element-type="record" id="3">
+      <gep_id is-null="False">5</gep_id>
+      <jarat_id is-null="False">2</jarat_id>
+      <nap is-null="False">32</nap>
+      <pilota is-null="False">Nagy Adon</pilota>
+    </record>
+    <record element-type="record" id="4">
+      <gep_id is-null="False">3</gep_id>
+      <jarat_id is-null="False">4</jarat_id>
+      <nap is-null="False">4</nap>
+      <pilota is-null="False">Nagy Pal</pilota>
+    </record>
+    <record element-type="record" id="5">
+      <gep_id is-null="False">3</gep_id>
+      <jarat_id is-null="False">4</jarat_id>
+      <nap is-null="False">2</nap>
+      <pilota is-null="False">Kovacs Zsigmond</pilota>
+    </record>
+    <record element-type="record" id="6">
+      <gep_id is-null="False">3</gep_id>
+      <jarat_id is-null="False">3</jarat_id>
+      <nap is-null="False">90</nap>
+      <pilota is-null="False">Nagy Pal</pilota>
+    </record>
+    <record element-type="record" id="7">
+      <gep_id is-null="False">6</gep_id>
+      <jarat_id is-null="False">3</jarat_id>
+      <nap is-null="False">8</nap>
+      <pilota is-null="False">Kovacs Istvan</pilota>
+    </record>
+    <record element-type="record" id="8">
+      <gep_id is-null="False">6</gep_id>
+      <jarat_id is-null="False">3</jarat_id>
+      <nap is-null="False">1</nap>
+      <pilota is-null="False">Kovacs Zsigmond</pilota>
+    </record>
+    <record element-type="record" id="9">
+      <gep_id is-null="False">5</gep_id>
+      <jarat_id is-null="False">3</jarat_id>
+      <nap is-null="False">32</nap>
+      <pilota is-null="False">Nagy Adon</pilota>
+    </record>
+    <record element-type="record" id="10">
+      <gep_id is-null="False">18</gep_id>
+      <jarat_id is-null="False">5</jarat_id>
+      <nap is-null="False">127</nap>
+      <pilota is-null="False">Eszterhazi Marton</pilota>
+    </record>
+    <record element-type="record" id="11">
+      <gep_id is-null="False">18</gep_id>
+      <jarat_id is-null="False">6</jarat_id>
+      <nap is-null="False">31</nap>
+      <pilota is-null="False">Feher Gyula</pilota>
+    </record>
+    <record element-type="record" id="12">
+      <gep_id is-null="False">18</gep_id>
+      <jarat_id is-null="False">6</jarat_id>
+      <nap is-null="False">96</nap>
+      <pilota is-null="False">Eszterhazi Marton</pilota>
+    </record>
+    <record element-type="record" id="13">
+      <gep_id is-null="False">19</gep_id>
+      <jarat_id is-null="False">7</jarat_id>
+      <nap is-null="False">85</nap>
+      <pilota is-null="False">Miklos Miklos</pilota>
+    </record>
+    <record element-type="record" id="14">
+      <gep_id is-null="False">19</gep_id>
+      <jarat_id is-null="False">7</jarat_id>
+      <nap is-null="False">42</nap>
+      <pilota is-null="False">Feher Gyula</pilota>
+    </record>
+    <record element-type="record" id="15">
+      <gep_id is-null="False">19</gep_id>
+      <jarat_id is-null="False">8</jarat_id>
+      <nap is-null="False">127</nap>
+      <pilota is-null="False">Gyorgy Elek</pilota>
+    </record>
+    <record element-type="record" id="16">
+      <gep_id is-null="False">9</gep_id>
+      <jarat_id is-null="False">9</jarat_id>
+      <nap is-null="False">84</nap>
+      <pilota is-null="False">Mezga Geza</pilota>
+    </record>
+    <record element-type="record" id="17">
+      <gep_id is-null="False">15</gep_id>
+      <jarat_id is-null="False">9</jarat_id>
+      <nap is-null="False">10</nap>
+      <pilota is-null="False">Szaraz Emese</pilota>
+    </record>
+    <record element-type="record" id="18">
+      <gep_id is-null="False">11</gep_id>
+      <jarat_id is-null="False">9</jarat_id>
+      <nap is-null="False">33</nap>
+      <pilota is-null="False">Matuska Szilveszter</pilota>
+    </record>
+    <record element-type="record" id="19">
+      <gep_id is-null="False">11</gep_id>
+      <jarat_id is-null="False">10</jarat_id>
+      <nap is-null="False">33</nap>
+      <pilota is-null="False">Matuska Szilveszter</pilota>
+    </record>
+    <record element-type="record" id="20">
+      <gep_id is-null="False">9</gep_id>
+      <jarat_id is-null="False">10</jarat_id>
+      <nap is-null="False">41</nap>
+      <pilota is-null="False">Mezga Geza</pilota>
+    </record>
+    <record element-type="record" id="21">
+      <gep_id is-null="False">15</gep_id>
+      <jarat_id is-null="False">10</jarat_id>
+      <nap is-null="False">20</nap>
+      <pilota is-null="False">Szaraz Emese</pilota>
+    </record>
+    <record element-type="record" id="22">
+      <gep_id is-null="False">14</gep_id>
+      <jarat_id is-null="False">11</jarat_id>
+      <nap is-null="False">32</nap>
+      <pilota is-null="False">Feher Nandor</pilota>
+    </record>
+    <record element-type="record" id="23">
+      <gep_id is-null="False">10</gep_id>
+      <jarat_id is-null="False">11</jarat_id>
+      <nap is-null="False">4</nap>
+      <pilota is-null="False">Kekesi Bela</pilota>
+    </record>
+    <record element-type="record" id="24">
+      <gep_id is-null="False">14</gep_id>
+      <jarat_id is-null="False">12</jarat_id>
+      <nap is-null="False">21</nap>
+      <pilota is-null="False">Feher Nandor</pilota>
+    </record>
+    <record element-type="record" id="25">
+      <gep_id is-null="False">14</gep_id>
+      <jarat_id is-null="False">13</jarat_id>
+      <nap is-null="False">21</nap>
+      <pilota is-null="False">Feher Nandor</pilota>
+    </record>
+    <record element-type="record" id="26">
+      <gep_id is-null="False">10</gep_id>
+      <jarat_id is-null="False">13</jarat_id>
+      <nap is-null="False">98</nap>
+      <pilota is-null="False">Peter Lajos</pilota>
+    </record>
+    <record element-type="record" id="27">
+      <gep_id is-null="False">3</gep_id>
+      <jarat_id is-null="False">13</jarat_id>
+      <nap is-null="False">8</nap>
+      <pilota is-null="False">Feher Nandor</pilota>
+    </record>
+    <record element-type="record" id="28">
+      <gep_id is-null="False">1</gep_id>
+      <jarat_id is-null="False">14</jarat_id>
+      <nap is-null="False">1</nap>
+      <pilota is-null="False">Egri Gabor</pilota>
+    </record>
+    <record element-type="record" id="29">
+      <gep_id is-null="False">2</gep_id>
+      <jarat_id is-null="False">14</jarat_id>
+      <nap is-null="False">2</nap>
+      <pilota is-null="False">Nagy Adon</pilota>
+    </record>
+    <record element-type="record" id="30">
+      <gep_id is-null="False">4</gep_id>
+      <jarat_id is-null="False">14</jarat_id>
+      <nap is-null="False">4</nap>
+      <pilota is-null="False">Gabor Aron</pilota>
+    </record>
+    <record element-type="record" id="31">
+      <gep_id is-null="False">17</gep_id>
+      <jarat_id is-null="False">14</jarat_id>
+      <nap is-null="False">8</nap>
+      <pilota is-null="False">Kristof Attila</pilota>
+    </record>
+    <record element-type="record" id="32">
+      <gep_id is-null="False">1</gep_id>
+      <jarat_id is-null="False">14</jarat_id>
+      <nap is-null="False">16</nap>
+      <pilota is-null="False">Egri Gabor</pilota>
+    </record>
+    <record element-type="record" id="33">
+      <gep_id is-null="False">2</gep_id>
+      <jarat_id is-null="False">14</jarat_id>
+      <nap is-null="False">32</nap>
+      <pilota is-null="False">Szaraz Emese</pilota>
+    </record>
+    <record element-type="record" id="34">
+      <gep_id is-null="False">1</gep_id>
+      <jarat_id is-null="False">15</jarat_id>
+      <nap is-null="False">2</nap>
+      <pilota is-null="False">Egri Gabor</pilota>
+    </record>
+    <record element-type="record" id="35">
+      <gep_id is-null="False">2</gep_id>
+      <jarat_id is-null="False">15</jarat_id>
+      <nap is-null="False">4</nap>
+      <pilota is-null="False">Nagy Adon</pilota>
+    </record>
+    <record element-type="record" id="36">
+      <gep_id is-null="False">4</gep_id>
+      <jarat_id is-null="False">15</jarat_id>
+      <nap is-null="False">8</nap>
+      <pilota is-null="False">Gabor Aron</pilota>
+    </record>
+    <record element-type="record" id="37">
+      <gep_id is-null="False">17</gep_id>
+      <jarat_id is-null="False">15</jarat_id>
+      <nap is-null="False">16</nap>
+      <pilota is-null="False">Kristof Attila</pilota>
+    </record>
+    <record element-type="record" id="38">
+      <gep_id is-null="False">1</gep_id>
+      <jarat_id is-null="False">15</jarat_id>
+      <nap is-null="False">32</nap>
+      <pilota is-null="False">Egri Gabor</pilota>
+    </record>
+    <record element-type="record" id="39">
+      <gep_id is-null="False">2</gep_id>
+      <jarat_id is-null="False">15</jarat_id>
+      <nap is-null="False">64</nap>
+      <pilota is-null="False">Szaraz Emese</pilota>
+    </record>
+    <record element-type="record" id="40">
+      <gep_id is-null="False">5</gep_id>
+      <jarat_id is-null="False">16</jarat_id>
+      <nap is-null="False">15</nap>
+      <pilota is-null="False">Gabor Aron</pilota>
+    </record>
+    <record element-type="record" id="41">
+      <gep_id is-null="False">6</gep_id>
+      <jarat_id is-null="False">16</jarat_id>
+      <nap is-null="False">112</nap>
+      <pilota is-null="False">Gabor Aron</pilota>
+    </record>
+    <record element-type="record" id="42">
+      <gep_id is-null="False">5</gep_id>
+      <jarat_id is-null="False">17</jarat_id>
+      <nap is-null="False">15</nap>
+      <pilota is-null="False">Antal Janos</pilota>
+    </record>
+    <record element-type="record" id="43">
+      <gep_id is-null="False">6</gep_id>
+      <jarat_id is-null="False">17</jarat_id>
+      <nap is-null="False">112</nap>
+      <pilota is-null="False">Gabor Aron</pilota>
+    </record>
+    <record element-type="record" id="44">
+      <gep_id is-null="False">5</gep_id>
+      <jarat_id is-null="False">18</jarat_id>
+      <nap is-null="False">15</nap>
+      <pilota is-null="False">Antal Janos</pilota>
+    </record>
+    <record element-type="record" id="45">
+      <gep_id is-null="False">6</gep_id>
+      <jarat_id is-null="False">18</jarat_id>
+      <nap is-null="False">112</nap>
+      <pilota is-null="False">Gabor Aron</pilota>
+    </record>
+    <record element-type="record" id="46">
+      <gep_id is-null="False">8</gep_id>
+      <jarat_id is-null="False">19</jarat_id>
+      <nap is-null="False">31</nap>
+      <pilota is-null="False">Szep Ilona</pilota>
+    </record>
+    <record element-type="record" id="47">
+      <gep_id is-null="False">8</gep_id>
+      <jarat_id is-null="False">19</jarat_id>
+      <nap is-null="False">96</nap>
+      <pilota is-null="False">Szep Ilona</pilota>
+    </record>
+    <record element-type="record" id="48">
+      <gep_id is-null="False">8</gep_id>
+      <jarat_id is-null="False">20</jarat_id>
+      <nap is-null="False">96</nap>
+      <pilota is-null="False">Antal Janos</pilota>
+    </record>
+    <record element-type="record" id="49">
+      <gep_id is-null="False">8</gep_id>
+      <jarat_id is-null="False">20</jarat_id>
+      <nap is-null="False">31</nap>
+      <pilota is-null="False">Szep Ilona</pilota>
+    </record>
+    <record element-type="record" id="50">
+      <gep_id is-null="False">14</gep_id>
+      <jarat_id is-null="False">21</jarat_id>
+      <nap is-null="False">8</nap>
+      <pilota is-null="False">Bem Joszef</pilota>
+    </record>
+    <record element-type="record" id="51">
+      <gep_id is-null="False">20</gep_id>
+      <jarat_id is-null="False">21</jarat_id>
+      <nap is-null="False">68</nap>
+      <pilota is-null="False">Kovacs Istvan</pilota>
+    </record>
+    <record element-type="record" id="52">
+      <gep_id is-null="False">14</gep_id>
+      <jarat_id is-null="False">22</jarat_id>
+      <nap is-null="False">8</nap>
+      <pilota is-null="False">Bem Joszef</pilota>
+    </record>
+    <record element-type="record" id="53">
+      <gep_id is-null="False">20</gep_id>
+      <jarat_id is-null="False">22</jarat_id>
+      <nap is-null="False">68</nap>
+      <pilota is-null="False">Benedek Mate</pilota>
+    </record>
+    <record element-type="record" id="54">
+      <gep_id is-null="False">13</gep_id>
+      <jarat_id is-null="False">23</jarat_id>
+      <nap is-null="False">127</nap>
+      <pilota is-null="False">Szep Ilona</pilota>
+    </record>
+    <record element-type="record" id="55">
+      <gep_id is-null="False">7</gep_id>
+      <jarat_id is-null="False">24</jarat_id>
+      <nap is-null="False">42</nap>
+      <pilota is-null="False">Sandor Matyas</pilota>
+    </record>
+    <record element-type="record" id="56">
+      <gep_id is-null="False">7</gep_id>
+      <jarat_id is-null="False">24</jarat_id>
+      <nap is-null="False">16</nap>
+      <pilota is-null="False">Benedek Mate</pilota>
+    </record>
+    <record element-type="record" id="57">
+      <gep_id is-null="False">7</gep_id>
+      <jarat_id is-null="False">25</jarat_id>
+      <nap is-null="False">1</nap>
+      <pilota is-null="False">Nagy Pal</pilota>
+    </record>
+    <record element-type="record" id="58">
+      <gep_id is-null="False">1</gep_id>
+      <jarat_id is-null="False">25</jarat_id>
+      <nap is-null="False">64</nap>
+      <pilota is-null="False">Nagy Adon</pilota>
+    </record>
+    <record element-type="record" id="59">
+      <gep_id is-null="False">16</gep_id>
+      <jarat_id is-null="False">26</jarat_id>
+      <nap is-null="False">127</nap>
+      <pilota is-null="False">Hunyadi Matyas</pilota>
+    </record>
+    <record element-type="record" id="60">
+      <gep_id is-null="False">4</gep_id>
+      <jarat_id is-null="False">27</jarat_id>
+      <nap is-null="False">96</nap>
+      <pilota is-null="False">Szep Ilona</pilota>
+    </record>
+    <record element-type="record" id="61">
+      <gep_id is-null="False">20</gep_id>
+      <jarat_id is-null="False">27</jarat_id>
+      <nap is-null="False">3</nap>
+      <pilota is-null="False">Bem Joszef</pilota>
+    </record>
+    <record element-type="record" id="62">
+      <gep_id is-null="False">12</gep_id>
+      <jarat_id is-null="False">28</jarat_id>
+      <nap is-null="False">127</nap>
+      <pilota is-null="False">Balogh Adon</pilota>
+    </record>
+    <record element-type="record" id="63">
+      <gep_id is-null="False">12</gep_id>
+      <jarat_id is-null="False">29</jarat_id>
+      <nap is-null="False">127</nap>
+      <pilota is-null="False">Balogh Adon</pilota>
+    </record>
+    <record element-type="record" id="64">
+      <gep_id is-null="False">24</gep_id>
+      <jarat_id is-null="False">30</jarat_id>
+      <nap is-null="False">112</nap>
+      <pilota is-null="False">Kovacs Lajos</pilota>
+    </record>
+    <record element-type="record" id="65">
+      <gep_id is-null="False">24</gep_id>
+      <jarat_id is-null="False">30</jarat_id>
+      <nap is-null="False">2</nap>
+      <pilota is-null="False">Mezga Geza</pilota>
+    </record>
+    <record element-type="record" id="66">
+      <gep_id is-null="False">24</gep_id>
+      <jarat_id is-null="False">31</jarat_id>
+      <nap is-null="False">112</nap>
+      <pilota is-null="False">Kovacs Lajos</pilota>
+    </record>
+    <record element-type="record" id="67">
+      <gep_id is-null="False">24</gep_id>
+      <jarat_id is-null="False">31</jarat_id>
+      <nap is-null="False">2</nap>
+      <pilota is-null="False">Piros Farkas</pilota>
+    </record>
+    <record element-type="record" id="68">
+      <gep_id is-null="False">24</gep_id>
+      <jarat_id is-null="False">32</jarat_id>
+      <nap is-null="False">112</nap>
+      <pilota is-null="False">Kovacs Lajos</pilota>
+    </record>
+    <record element-type="record" id="69">
+      <gep_id is-null="False">24</gep_id>
+      <jarat_id is-null="False">33</jarat_id>
+      <nap is-null="False">112</nap>
+      <pilota is-null="False">Kovacs Lajos</pilota>
+    </record>
+    <record element-type="record" id="70">
+      <gep_id is-null="False">21</gep_id>
+      <jarat_id is-null="False">34</jarat_id>
+      <nap is-null="False">21</nap>
+      <pilota is-null="False">Egri Ede</pilota>
+    </record>
+    <record element-type="record" id="71">
+      <gep_id is-null="False">21</gep_id>
+      <jarat_id is-null="False">34</jarat_id>
+      <nap is-null="False">42</nap>
+      <pilota is-null="False">Kardos Mihaly</pilota>
+    </record>
+    <record element-type="record" id="72">
+      <gep_id is-null="False">28</gep_id>
+      <jarat_id is-null="False">35</jarat_id>
+      <nap is-null="False">42</nap>
+      <pilota is-null="False">Mezga Aladar</pilota>
+    </record>
+    <record element-type="record" id="73">
+      <gep_id is-null="False">28</gep_id>
+      <jarat_id is-null="False">35</jarat_id>
+      <nap is-null="False">84</nap>
+      <pilota is-null="False">Kardos Mark</pilota>
+    </record>
+    <record element-type="record" id="74">
+      <gep_id is-null="False">17</gep_id>
+      <jarat_id is-null="False">36</jarat_id>
+      <nap is-null="False">5</nap>
+      <pilota is-null="False">Kovacs Lajos</pilota>
+    </record>
+    <record element-type="record" id="75">
+      <gep_id is-null="False">15</gep_id>
+      <jarat_id is-null="False">36</jarat_id>
+      <nap is-null="False">10</nap>
+      <pilota is-null="False">Lelkes Janos</pilota>
+    </record>
+    <record element-type="record" id="76">
+      <gep_id is-null="False">17</gep_id>
+      <jarat_id is-null="False">37</jarat_id>
+      <nap is-null="False">10</nap>
+      <pilota is-null="False">Kovacs Lajos</pilota>
+    </record>
+    <record element-type="record" id="77">
+      <gep_id is-null="False">15</gep_id>
+      <jarat_id is-null="False">37</jarat_id>
+      <nap is-null="False">20</nap>
+      <pilota is-null="False">Lelkes Janos</pilota>
+    </record>
+    <record element-type="record" id="78">
+      <gep_id is-null="False">15</gep_id>
+      <jarat_id is-null="False">38</jarat_id>
+      <nap is-null="False">32</nap>
+      <pilota is-null="False">Lelkes Janos</pilota>
+    </record>
+    <record element-type="record" id="79">
+      <gep_id is-null="False">15</gep_id>
+      <jarat_id is-null="False">39</jarat_id>
+      <nap is-null="False">64</nap>
+      <pilota is-null="False">Lelketlen Nandor</pilota>
+    </record>
+    <record element-type="record" id="80">
+      <gep_id is-null="False">29</gep_id>
+      <jarat_id is-null="False">40</jarat_id>
+      <nap is-null="False">117</nap>
+      <pilota is-null="False">Toth Peter</pilota>
+    </record>
+    <record element-type="record" id="81">
+      <gep_id is-null="False">29</gep_id>
+      <jarat_id is-null="False">40</jarat_id>
+      <nap is-null="False">8</nap>
+      <pilota is-null="False">Kardigan Alajos</pilota>
+    </record>
+    <record element-type="record" id="82">
+      <gep_id is-null="False">29</gep_id>
+      <jarat_id is-null="False">40</jarat_id>
+      <nap is-null="False">2</nap>
+      <pilota is-null="False">Toth Peter</pilota>
+    </record>
+    <record element-type="record" id="83">
+      <gep_id is-null="False">29</gep_id>
+      <jarat_id is-null="False">41</jarat_id>
+      <nap is-null="False">96</nap>
+      <pilota is-null="False">Toth Peter</pilota>
+    </record>
+    <record element-type="record" id="84">
+      <gep_id is-null="False">29</gep_id>
+      <jarat_id is-null="False">41</jarat_id>
+      <nap is-null="False">11</nap>
+      <pilota is-null="False">Kardigan Alajos</pilota>
+    </record>
+    <record element-type="record" id="85">
+      <gep_id is-null="False">29</gep_id>
+      <jarat_id is-null="False">42</jarat_id>
+      <nap is-null="False">117</nap>
+      <pilota is-null="False">Toth Peter</pilota>
+    </record>
+    <record element-type="record" id="86">
+      <gep_id is-null="False">29</gep_id>
+      <jarat_id is-null="False">42</jarat_id>
+      <nap is-null="False">2</nap>
+      <pilota is-null="False">Toth Peter</pilota>
+    </record>
+    <record element-type="record" id="87">
+      <gep_id is-null="False">29</gep_id>
+      <jarat_id is-null="False">42</jarat_id>
+      <nap is-null="False">8</nap>
+      <pilota is-null="False">Kardigan Alajos</pilota>
+    </record>
+    <record element-type="record" id="88">
+      <gep_id is-null="False">29</gep_id>
+      <jarat_id is-null="False">43</jarat_id>
+      <nap is-null="False">11</nap>
+      <pilota is-null="False">Kardigan Alajos</pilota>
+    </record>
+    <record element-type="record" id="89">
+      <gep_id is-null="False">29</gep_id>
+      <jarat_id is-null="False">43</jarat_id>
+      <nap is-null="False">96</nap>
+      <pilota is-null="False">Toth Peter</pilota>
+    </record>
+    <record element-type="record" id="90">
+      <gep_id is-null="False">25</gep_id>
+      <jarat_id is-null="False">44</jarat_id>
+      <nap is-null="False">21</nap>
+      <pilota is-null="False">Sandor Matyas</pilota>
+    </record>
+    <record element-type="record" id="91">
+      <gep_id is-null="False">14</gep_id>
+      <jarat_id is-null="False">44</jarat_id>
+      <nap is-null="False">64</nap>
+      <pilota is-null="False">Dolgos Panna</pilota>
+    </record>
+    <record element-type="record" id="92">
+      <gep_id is-null="False">25</gep_id>
+      <jarat_id is-null="False">45</jarat_id>
+      <nap is-null="False">21</nap>
+      <pilota is-null="False">Sandor Matyas</pilota>
+    </record>
+    <record element-type="record" id="93">
+      <gep_id is-null="False">14</gep_id>
+      <jarat_id is-null="False">45</jarat_id>
+      <nap is-null="False">64</nap>
+      <pilota is-null="False">Egri Ede</pilota>
+    </record>
+    <record element-type="record" id="94">
+      <gep_id is-null="False">22</gep_id>
+      <jarat_id is-null="False">46</jarat_id>
+      <nap is-null="False">127</nap>
+      <pilota is-null="False">Alma Istvanne</pilota>
+    </record>
+    <record element-type="record" id="95">
+      <gep_id is-null="False">22</gep_id>
+      <jarat_id is-null="False">47</jarat_id>
+      <nap is-null="False">127</nap>
+      <pilota is-null="False">Jakupcsek Anita</pilota>
+    </record>
+    <record element-type="record" id="96">
+      <gep_id is-null="False">15</gep_id>
+      <jarat_id is-null="False">48</jarat_id>
+      <nap is-null="False">97</nap>
+      <pilota is-null="False">Cseresznye Virag</pilota>
+    </record>
+    <record element-type="record" id="97">
+      <gep_id is-null="False">5</gep_id>
+      <jarat_id is-null="False">48</jarat_id>
+      <nap is-null="False">97</nap>
+      <pilota is-null="False">Cseresznye Virag</pilota>
+    </record>
+    <record element-type="record" id="98">
+      <gep_id is-null="False">15</gep_id>
+      <jarat_id is-null="False">49</jarat_id>
+      <nap is-null="False">97</nap>
+      <pilota is-null="False">Eszterhazi Marton</pilota>
+    </record>
+    <record element-type="record" id="99">
+      <gep_id is-null="False">30</gep_id>
+      <jarat_id is-null="False">49</jarat_id>
+      <nap is-null="False">42</nap>
+      <pilota is-null="False">Kistarcsai Adon</pilota>
+    </record>
+    <record element-type="record" id="100">
+      <gep_id is-null="False">23</gep_id>
+      <jarat_id is-null="False">50</jarat_id>
+      <nap is-null="False">68</nap>
+      <pilota is-null="False">Orosz Tamara</pilota>
+    </record>
+    <record element-type="record" id="101">
+      <gep_id is-null="False">23</gep_id>
+      <jarat_id is-null="False">51</jarat_id>
+      <nap is-null="False">96</nap>
+      <pilota is-null="False">Orosz Tamara</pilota>
+    </record>
+    <record element-type="record" id="102">
+      <gep_id is-null="False">26</gep_id>
+      <jarat_id is-null="False">52</jarat_id>
+      <nap is-null="False">127</nap>
+      <pilota is-null="False">Barna Gabor</pilota>
+    </record>
+    <record element-type="record" id="103">
+      <gep_id is-null="False">26</gep_id>
+      <jarat_id is-null="False">53</jarat_id>
+      <nap is-null="False">127</nap>
+      <pilota is-null="False">Ivan Lajos</pilota>
+    </record>
+    <record element-type="record" id="104">
+      <gep_id is-null="False">27</gep_id>
+      <jarat_id is-null="False">54</jarat_id>
+      <nap is-null="False">42</nap>
+      <pilota is-null="False">Kek Elemer</pilota>
+    </record>
+    <record element-type="record" id="105">
+      <gep_id is-null="False">2</gep_id>
+      <jarat_id is-null="False">54</jarat_id>
+      <nap is-null="False">1</nap>
+      <pilota is-null="False">Kardos Mihaly</pilota>
+    </record>
+    <record element-type="record" id="106">
+      <gep_id is-null="False">7</gep_id>
+      <jarat_id is-null="False">54</jarat_id>
+      <nap is-null="False">64</nap>
+      <pilota is-null="False">Kekesi Tibor</pilota>
+    </record>
+    <record element-type="record" id="107">
+      <gep_id is-null="False">2</gep_id>
+      <jarat_id is-null="False">54</jarat_id>
+      <nap is-null="False">16</nap>
+      <pilota is-null="False">Kekesi Bela</pilota>
+    </record>
+    <record element-type="record" id="108">
+      <gep_id is-null="False">32</gep_id>
+      <jarat_id is-null="False">58</jarat_id>
+      <nap is-null="False">127</nap>
+      <pilota is-null="False">Egri Ede</pilota>
+    </record>
+    <record element-type="record" id="109">
+      <gep_id is-null="False">4</gep_id>
+      <jarat_id is-null="False">59</jarat_id>
+      <nap is-null="False">127</nap>
+      <pilota is-null="False">Benedek Elek Andras</pilota>
+    </record>
+    <record element-type="record" id="110">
+      <gep_id is-null="False">4</gep_id>
+      <jarat_id is-null="False">59</jarat_id>
+      <nap is-null="False">127</nap>
+      <pilota is-null="False">Benedek Elek Andras</pilota>
+    </record>
+    <record element-type="record" id="111">
+      <gep_id is-null="False">27</gep_id>
+      <jarat_id is-null="False">60</jarat_id>
+      <nap is-null="False">127</nap>
+      <pilota is-null="False">Toth Peter</pilota>
+    </record>
+    <record element-type="record" id="112">
+      <gep_id is-null="False">5</gep_id>
+      <jarat_id is-null="False">61</jarat_id>
+      <nap is-null="False">127</nap>
+      <pilota is-null="False">Varna Zsolt</pilota>
+    </record>
+  </menetrend>
+</legi1>

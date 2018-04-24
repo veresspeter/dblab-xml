@@ -8,24 +8,38 @@
   <xsl:output method="html" indent="yes" version="5.0" />
 
   <xsl:template match="/">
-    <xsl:apply-templates select="ship/ships" />
+    <xsl:apply-templates select="legi1/jarat" />
   </xsl:template>
 
-  <xsl:template match="ships[@element-type='recordset']">
+  <xsl:template match="jarat[@element-type='recordset']">
     <table>
-        <tr>
-          <th>Name</th>
-          <th>Type</th>
-        </tr>
-        <xsl:apply-templates />
+		<thead>
+			<tr>
+			  <th>Járaszám</th>
+			  <th>Indulási reptér</th>
+			  <th>Érkezési reptér</th>
+			  <th>Indulás ideje</th>
+			  <th>Érkezés ideje</th>
+			</tr>
+		</thead>
+		<tbody>
+			<xsl:apply-templates />
+		</tbody>
     </table>
   </xsl:template>
 
-  <xsl:template match="ships[@element-type='recordset']/record">
+  <xsl:template match="jarat[@element-type='recordset']/record">
     <tr>
-      <xsl:apply-templates select="name" />
-      <xsl:apply-templates select="type" />
+      <xsl:apply-templates select="szam" />
+      <xsl:apply-templates select="honnan" />
+      <xsl:apply-templates select="hova" />
+      <xsl:apply-templates select="ind" />
+      <xsl:apply-templates select="erk" />
     </tr>
+  </xsl:template>
+  
+  <xsl:template match="record/ind | record/erk" priority="0.6">
+    <td><xsl:value-of select="concat(substring(string(.), 0, string-length(.)-1), ':', substring(string(.), string-length(.)-1, 2))"/></td>
   </xsl:template>
 
   <!-- process an empty field -->

@@ -5,30 +5,44 @@
   xmlns:xs="http://www.w3.org/2001/XMLSchema"
   version="2.0">
 
-  <xsl:output method="xml" indent="yes" />
+  <xsl:output method="xml" indent="yes"/>
 
-  <xsl:template match="/ship">
-    <ship-registry>
-      <xsl:apply-templates select="ships/record" />
-    </ship-registry>
+  <xsl:template match="/legi1" >
+    <jarat-lista>
+      <xsl:apply-templates select="jarat/record" />
+    </jarat-lista>
   </xsl:template>
 
-  <xsl:template match="ships[@element-type='recordset']/record">
-    <ship>
+  <xsl:template match="jarat[@element-type='recordset']/record">
+    <jarat>
       <xsl:attribute name="id">
-        <xsl:value-of select="@ship_id" />
+        <xsl:value-of select="@jarat_id" />
       </xsl:attribute>
-      <journeys>
-        <xsl:variable name="l_shipid" select="@ship_id" />
-	<!-- find and include journeys for this ship here -->
-      </journeys>
-    </ship>
+	  
+	  <xsl:apply-templates select="szam | honnan | hova"/>
+      
+	  <menetrend>
+        <xsl:variable name="jaratid" select="@jarat_id" />
+		<xsl:apply-templates select="/legi1/menetrend/record[jarat_id=$jaratid]"/>
+      </menetrend>
+    </jarat>
   </xsl:template>
-
-  <!-- gives details of a journey -->
-  <xsl:template match="journeys[@element-type='recordset']/record">
-    <journey bar="drink">
-      <foo>Foo</foo>
-    </journey>
+  
+  <xsl:template match="jarat[@element-type='recordset']/record/*">
+	<xsl:copy>
+	  <xsl:copy-of select="node() except @*"/>
+	</xsl:copy>
+  </xsl:template>
+  
+  <xsl:template match="menetrend[@element-type='recordset']/record">
+	<repul>
+	  <xsl:attribute name="gep">
+		<xsl:value-of select="gep_id" />
+	  </xsl:attribute>
+	  
+	  <xsl:attribute name="pilota">
+		<xsl:value-of select="pilota" />
+	  </xsl:attribute>
+	</repul>
   </xsl:template>
 </xsl:stylesheet>

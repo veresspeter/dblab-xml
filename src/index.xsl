@@ -13,11 +13,12 @@
   <xsl:template match="/">
     <html>
       <head>
-        <title>Ship register</title>
+        <title>Légitársaság 1.</title>
       </head>
       <body>
-        <h1>Ships</h1>
+        <h1>Gépek</h1>
         <!-- here comes the list -->
+		<xsl:apply-templates select="legi1/jarat" />
       </body>
     </html>
   </xsl:template>

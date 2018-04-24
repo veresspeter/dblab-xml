@@ -10,7 +10,7 @@ vars = Variables(None, ARGUMENTS)
 vars.Add('DS', 'Pass a single data source XML file basename (i.e. without extension) '
                'as input for the transformation. '
                'E.g. pass SHIP to use SHIP.xml (which, in fact is the default).'
-             , 'SHIP')
+             , 'LEGI1')
 env = Environment(variables = vars)
 Help(vars.GenerateHelpText(env))
 

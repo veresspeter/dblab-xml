@@ -7,16 +7,24 @@
 
   <xsl:output method="xml" indent="yes" />
 
-  <xsl:template match="/ship">
+  <xsl:template match="legi1">  
     <xsl:copy>
-      <!-- see xsl:attribute to copy attributes of the element -->
-      <xsl:apply-templates select="ships" />
+        <xsl:copy-of select="@*"/>
+	    <xsl:apply-templates select="jarat"/>
     </xsl:copy>
   </xsl:template>
 
-  <xsl:template match="ships">
-    <xsl:copy>
-      <!-- deep-copy all the records that are of type sailing boat -->
-    </xsl:copy>
+  <xsl:template match="/legi1/jarat">
+	<xsl:copy>
+		<xsl:copy-of select="@*"/>
+		<xsl:apply-templates select="record"/>
+	</xsl:copy>
   </xsl:template>
+  
+  <xsl:template match="/legi1/jarat/record">
+	<xsl:if test="honnan='BUD'">
+		<xsl:copy-of select="."/>
+	</xsl:if>
+  </xsl:template>
+  
 </xsl:stylesheet>
